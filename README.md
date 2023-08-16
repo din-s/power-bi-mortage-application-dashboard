@@ -1,4 +1,4 @@
-# Global Bank- Mortage Load Application Tracker
+# Global Bank- Mortage Loan Application Tracker
 
 In this project I have created multi-page Power BI Dashbaord to help Global bank with crucial Business decisions and calculate the mortage loan application scores to decrease the response time for applications.
 
@@ -54,3 +54,6 @@ In this project I have created multi-page Power BI Dashbaord to help Global bank
 
 8. Customer Lists: page allows us to view the details of a particular customers loan application(s).
    ![Customer lists](<Assets/Customer lists.png>)
+
+
+### THANKYOU! For coming all the way to the end this report. I would Really appreciate if you can recommend me to any open Data Analyst, Business Analyst, Business Intelligence positions AND please consider endorsing my skills on [LinkedIn](https://www.linkedin.com/in/din-s-sharma/)
